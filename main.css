@@ -82,8 +82,6 @@ li{
 .nav-link:focus{
 background: linear-gradient(to top, rgb(1, 255, 213), rgb(0, 204, 255), #fd57bf, rgb(98, 42, 255));
 -webkit-background-clip: text;
-background-clip: text;
-color: transparent;
 -webkit-text-fill-color: transparent;
 }
 
@@ -97,6 +95,7 @@ color: transparent;
   top:  5rem;
   right:  5rem;
   height: 4rem;
+  width: 5rem;
   display:  flex;
   flex-direction: column;
   justify-content: space-between;
