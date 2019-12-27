@@ -3,5 +3,4 @@ $(document).ready(function () {
     $(this).toggleClass('open')
     $('.top-nav').toggleClass('open')
   })
-
 })
