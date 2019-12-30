@@ -450,9 +450,37 @@ input[type="submit"]{
   cursor: pointer;
   transition: background-color 650ms;
 }
+
+input[type="submit"]:hover{
+  color: #221e3f;
+  background-color: #5890e6;
+}
 /*End contact*/
 
 /*Start footer*/
+.copyright{
+  width: 100%;
+  text-align: center;
+  background-color: #16162d;
+  padding: 2rem 0;
+  position: relative;
+}
+
+.up{
+  position: absolute;
+  width: 5rem;
+  background-color: #eee;
+  top: -2.5rem;
+  right: 5rem;
+  border-radius: 100%;
+  display:flex;
+}
+
+.up i{
+  color: #16162d;
+  font-size: 2rem;
+  margin: auto;
+}
 /*End footer*/
 
 /*Start animations*/
