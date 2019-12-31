@@ -419,7 +419,7 @@ background: linear-gradient(to top, rgb(1, 255, 213), rgb(0, 204, 255), #fd57bf,
 
 /*Start contact*/
 /* .contact{
-  background-color: #075cdb;
+  background-color: #035ce2;
 } */
 
 form{
@@ -451,10 +451,10 @@ input[type="submit"]{
   transition: background-color 650ms;
 }
 
-input[type="submit"]:hover{
+/* input[type="submit"]:hover{
   color: #221e3f;
   background-color: #5890e6;
-}
+} */
 /*End contact*/
 
 /*Start footer*/
@@ -474,16 +474,33 @@ input[type="submit"]:hover{
   right: 5rem;
   border-radius: 100%;
   display:flex;
+  animation: pulse 2s infinite;
 }
-
+/* 
 .up i{
   color: #16162d;
   font-size: 2rem;
   margin: auto;
-}
+} */
+/* 
+.copyright p{
+  font-size: 1.4rem;
+  margin: auto;
+} */
 /*End footer*/
 
 /*Start animations*/
+/* @keyframes pulse {
+  0%{
+    box-shadow: 0 0 0 0 rgba(253, 87, 191, 0.99);
+  }
+  70%{
+    box-shadow: 0 0 0 0 rgba(253, 87, 191, 0.99)
+  }
+  100%{
+    box-shadow: 0 0 0 0 rgba(253, 87, 191, 0.99)
+  }
+} */
 /*End animations*/
 
 /*Start media queries*/
