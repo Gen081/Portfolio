@@ -276,10 +276,9 @@ background: linear-gradient(to top, rgb(1, 255, 213), rgb(0, 204, 255), #fd57bf,
   font-weight: 300;
 }
 
-.profile-img{
+.portfolio-img{
   flex: 1;
-  margin-right: 5rem;
-}  
+} 
 
 .about-details{
   flex: 1;
@@ -325,7 +324,7 @@ background: linear-gradient(to top, rgb(1, 255, 213), rgb(0, 204, 255), #fd57bf,
 }
 
 .portfolio-description{
-  flex: 1rem;
+  flex: 1;
 }
 
 .portfolio-description h1{
