@@ -218,35 +218,11 @@ background: linear-gradient(to top, rgb(1, 255, 213), rgb(0, 204, 255), #fd57bf,
 }
 
 .landing-text h6{
-  font-size: 2rem;
+  font-size: 3rem;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 300;
-  margin-bottom: 20rem;
+  margin-bottom: 10rem;
 }
-
-/* .landing-text h6{
-  font-size: 2rem;
-  font-weight: 300;
-}   */
-
-/* .landing-text h1{
-  font-size: 20rem;
-  font-family: 'The Historia Demo', sans-serif;
-  -webkit-background-clip: text; 
-  background-clip: text;
-  color: transparent;
-  padding: 1rem;
-  user-select: none;
-} */
-
-/* .landing-text h1{
-  font-size: 20rem;
-  font-size: 'The Historia Demo', sans-serif;
-  -webkit-background-clip: text;
-  background-clip: text;
-  padding:  1rem;
-  user-select: none;
-
-} */
 
 /*End header*/
 
@@ -284,11 +260,11 @@ background: linear-gradient(to top, rgb(1, 255, 213), rgb(0, 204, 255), #fd57bf,
   flex: 1;
 }
 .social-media{
-  margin-top: 5rem;
+  margin-top: 2rem;
 }
 
 .social-media i{
-  font-size:  5rem;
+  font-size:  3rem;
   transition: color 650ms;
 }
 
@@ -417,12 +393,9 @@ background: linear-gradient(to top, rgb(1, 255, 213), rgb(0, 204, 255), #fd57bf,
 /*End timeline*/
 
 /*Start contact*/
-/* .contact{
-  background-color: #035ce2;
-} */
 
 form{
-  width: 70%;
+  width: 100%;
   margin: 0 auto;
 }
 
@@ -619,18 +592,7 @@ input[type="submit"]:hover{
     .up{
       right: 2rem;
     }
-
-    
-
-    
-
-
-
   }
-
-
-
-
 }
 
 
