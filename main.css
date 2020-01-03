@@ -460,7 +460,7 @@ input[type="submit"]:hover{
 .copyright{
   width: 100%;
   text-align: center;
-  background-color: #16162d;
+  /* background-color: #16162d; */
   padding: 2rem 0;
   position: relative;
 }
@@ -468,7 +468,7 @@ input[type="submit"]:hover{
 .up{
   position: absolute;
   width: 5rem;
-  background-color: #eee;
+  background-color: rgb(201, 38, 120);
   top: -2.5rem;
   right: 5rem;
   border-radius: 100%;
@@ -478,7 +478,7 @@ input[type="submit"]:hover{
 }
 
 .up i{
-  color: #16162d;
+  color: rgb(201, 38, 120);
   font-size: 2rem;
   margin: auto;
 }
@@ -619,6 +619,8 @@ input[type="submit"]:hover{
     .up{
       right: 2rem;
     }
+
+    
 
     
 
