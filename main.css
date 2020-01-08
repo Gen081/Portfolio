@@ -441,8 +441,9 @@ input[type="submit"]:hover{
 .up{
   position: absolute;
   width: 5rem;
+  height: 5rem;
   background-color: rgb(201, 38, 120);
-  top: -2.5rem;
+  top: -2.7rem;
   right: 5rem;
   border-radius: 100%;
   display:flex;
@@ -465,13 +466,13 @@ input[type="submit"]:hover{
 /*Start animations*/
 @keyframes pulse {
   0%{
-    box-shadow: 0 0 0 0 rgba(253, 87, 191, 0.99);
+    box-shadow: 0 0 0 0 rgba(219, 240, 253, 0.99);
   }
   70%{
-    box-shadow: 0 0 0 0 rgba(253, 87, 191, 0);
+    box-shadow: 0 0 0 0 rgba(219, 240, 253, 0);
   }
   100%{
-    box-shadow: 0 0 0 0 rgba(253, 87, 191, 0);
+    box-shadow: 0 0 0 0 rgba(219, 240, 253, 0);
   }
 }
 /*End animations*/
