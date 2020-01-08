@@ -207,13 +207,13 @@ background: linear-gradient(to top, rgb(1, 255, 213), rgb(0, 204, 255), #fd57bf,
 }
 
 .landing-text h1{
-  font-size: 20rem;
+  font-size: 18rem;
   font-family: 'Great Vibes', cursive;
   background: linear-gradient(to top, rgb(1, 255, 213), rgb(0, 204, 255), #fd57bf, rgb(98, 42, 255));
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
-  padding: 10rem;  
+  padding: 1rem;  
   user-select: none;
 }
 
