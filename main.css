@@ -411,8 +411,9 @@ textarea{
   margin-bottom: 5px;
   border: none;
   outline-color: #fd57bf;
-  background-color: #84a0da;
-  color: #0746c4;
+  background-color: rgb(229, 234, 231, 0.5);
+  color:white;
+  font-size: 1.4rem;
 
 }
 
@@ -455,7 +456,7 @@ input[type="submit"]:hover{
 }
 
 .up i{
-  color: rgb(201, 38, 120);
+  color: white;
   font-size: 2rem;
   margin: auto;
 }
